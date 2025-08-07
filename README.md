@@ -168,20 +168,84 @@
 
 - Data: 15/10/2025 - 12/10/2025
 
-
-
-
------------------------------------------------------
-## Sprint 4: Página Inicial
+## Sprint 8: Documentação e Deploy
 ### O que foi feito:
 
-- Desenvolvimento de 4 seções da página inicial e integração
+- Documentação com Swagger (OpenAPI)
+
+- Deploy no Render/Vercel
+
+- Monitoramento inicial
 
 ### Desenvolvedores:
 
-- Ana: Implementou lógica do carrinho e perfil.
+- Ana: Criou documentação.
 
-- Marcelo: Desenvolveu footer e integração da newsletter.
+- Marcelo: Configurou deploy.
+
+### Períodos:
+
+- Desenvolvimento: 2 dias
+
+- Deploy: 1 dia
+
+- Data: 16/10/2025 - 20/10/2025
+
+
+## Sprint 9: Página Inicial
+### O que foi feito:
+
+- Desenvolvimento de 2 seções (Hero e amostra de produtos) da página inicial e integração
+
+### Desenvolvedores:
+
+- Ana:  Criou os componentes de cards de produtos.
+
+- Marcelo: Integrou os dados da API.
+
+### Períodos:
+
+- Desenvolvimento: 3 dias
+
+- Testes: 1 dia
+
+- Data: 21/10/2025 - 27/10/2025
+
+## Sprint 10: Página de Listagem dos Produtos
+### O que foi feito:
+
+- Carrossel de imagens, seleção de cor/tamanho, botão "Add to Cart"
+
+- Seção de produtos relacionados
+
+### Desenvolvedores:
+
+- Ana: Implementou lógica de seleção de atributos.
+
+- Marcelo: Desenvolveu o carrossel e layout.
+
+### Períodos:
+
+- Desenvolvimento: 4 dias
+
+- Testes: 2 dia
+
+- Data: 28/10/2025 - 04/11/2025
+
+## Sprint 11: Configuração do estado do carrinho com Redux
+### O que foi feito:
+
+- Listagem de itens com ajuste de quantidade/remoção
+
+- Cálculo dinâmico de subtotal/total
+
+- Botões "Checkout" e "Continue Shopping"
+
+### Desenvolvedores:
+
+- Ana: Integrou carrinho com Redux.
+
+- Marcelo: Desenvolveu a função para contagem de produtos no carrinho no header.
 
 ### Períodos:
 
@@ -189,4 +253,27 @@
 
 - Testes: 1 dia
 
-- Data: 15/09/2025 - 20/09/2025
+- Data: 05/11/2025 - 11/11/2025
+
+## Sprint 12: Tela de checkout
+### O que foi feito:
+
+- Formulário de endereço com validação de CEP (API ViaCEP)
+
+- Blocos de subtotal/total e botão "Place Order"
+
+### Desenvolvedores:
+
+- Ana: Implementou validação de CEP e formulário.
+
+- Marcelo: Desenvolveu a função e layout do checkout
+
+### Períodos:
+
+- Desenvolvimento: 5 dias
+
+- Testes: 2 dia
+
+- Data: 12/11/2025 - 21/11/2025
+
+
