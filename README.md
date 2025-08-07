@@ -276,4 +276,106 @@
 
 - Data: 12/11/2025 - 21/11/2025
 
+## Sprint 13: Página de Pós-Pagamento
+### O que foi feito:
+
+- Página "After Payment" com mensagem de sucesso
+
+- Redirecionamento + botão “Go to My Account”.
+
+### Desenvolvedores:
+
+- Ana: Desenvolveu a página de pós-pagamento.
+
+- Marcelo: Redirecionamento + estidos do botão “Go to My Account”.
+
+### Períodos:
+
+- Desenvolvimento: 4 dias
+
+- Testes: 1 dia
+
+- Data: 24/11/2025 - 28/11/2025
+
+## Sprint 14: Profile - Parte 1 (Detalhes da conta)
+### O que foi feito:
+
+- Layout da página de profile
+
+- Função para buscar os pedidos já feitos pelo usuário no banco de dados
+
+### Desenvolvedores:
+
+- Ana: Página com avatar, nome e e-mail.
+
+- Marcelo: Logout e validação de sessão com clerk.
+
+### Períodos:
+
+- Desenvolvimento: 4 dias
+
+- Testes: 1 dia
+
+- Data: 24/11/2025 - 28/11/2025
+
+## Sprint 15: Profile - Parte 2 (Pedidos)
+### O que foi feito:
+
+- Função para listegem dos pedidos vindos do back-end
+
+### Desenvolvedores:
+
+- Ana: Listagem de pedidos feitos.
+
+- Marcelo: Botão "view item" redirecionando para Product.
+
+### Períodos:
+
+- Desenvolvimento: 4 dias
+
+- Testes: 1 dia
+
+- Data: 24/11/2025 - 28/11/2025
+
+
+## Sprint 16: Página About
+### O que foi feito:
+
+- Página "About" com foto, descrição e contatos
+
+- Página 404 personalizada
+
+### Desenvolvedores:
+
+- Ana: Layout com a foto do fornecida pelo usuário, descrição e contatos.
+
+- Marcelo: Integração com o layout geral do site (header/footer).
+
+### Períodos:
+
+- Desenvolvimento: 2 dias
+
+- Testes: 1 dia
+
+- Data: 01/12/2025 - 03/11/2025
+
+## Sprint 17: Página 404
+### O que foi feito:
+
+- Página customizada para rotas inexistentes
+
+- Página 404 personalizada
+
+### Desenvolvedores:
+
+- Ana: Layout e integração com estilo do Figma.
+
+- Marcelo: Redirecionamento de links inválidos no Footer.
+
+### Períodos:
+
+- Desenvolvimento: 2 dias
+
+- Data: 01/12/2025 - 02/11/2025
+
 
