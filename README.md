@@ -232,35 +232,92 @@
 
 - Data: 28/10/2025 - 04/11/2025
 
-## Sprint 11: Configuração do estado do carrinho com Redux
+## Sprint 11: Configuração do estado do carrinho com Redux - Parte 1
 ### O que foi feito:
 
-- Listagem de itens com ajuste de quantidade/remoção
-
-- Cálculo dinâmico de subtotal/total
-
-- Botões "Checkout" e "Continue Shopping"
+- Setup do estado global e ações.
 
 ### Desenvolvedores:
 
 - Ana: Integrou carrinho com Redux.
 
-- Marcelo: Desenvolveu a função para contagem de produtos no carrinho no header.
+- Marcelo: Hook personalizado para acesso ao carrinho.
 
 ### Períodos:
 
-- Desenvolvimento: 4 dias
+- Desenvolvimento: 3 dias
 
 - Testes: 1 dia
 
 - Data: 05/11/2025 - 11/11/2025
 
-## Sprint 12: Tela de checkout
+## Sprint 12: Layout da Página do Carrinho e Lógica de incremento e decremento de quantidade - Parte 2
 ### O que foi feito:
 
-- Formulário de endereço com validação de CEP (API ViaCEP)
+- Listagem de itens com ajuste de quantidade/remoção
 
-- Blocos de subtotal/total e botão "Place Order"
+- Botões "Checkout" e "Continue Shopping"
+
+### Desenvolvedores:
+
+- Ana: Página com lista de produtos no carrinho e botões de "Checkout" e "Continue Shopping"
+
+- Marcelo: Funções para aumentar/diminuir/remover item.
+
+### Períodos:
+
+- Desenvolvimento: 2 dias
+
+- Testes: 1 dia
+
+- Data: 12/11/2025 - 17/11/2025
+
+## Sprint 13: Finalização do layout e preview dos custos do pedido - Parte 3
+### O que foi feito:
+
+- Função para os calculos de subtotal, shipping, tax e total.
+
+- Contagem correta de produtos no carrinho
+
+### Desenvolvedores:
+
+- Ana: Subtotal, shipping, tax e total.
+
+- Marcelo: Desenvolveu a função para contagem de produtos no carrinho no header.
+
+### Períodos:
+
+- Desenvolvimento: 2 dias
+
+- Testes: 1 dia
+
+- Data: 18/11/2025 - 20/11/2025
+
+## Sprint 14: Tela de Checkout - Parte 1 (Formulário)
+### O que foi feito:
+
+- Campos de endereço com validações, Integração com API de CEP (preenchimento automático) e layout da tela
+
+### Desenvolvedores:
+
+- Ana: Implementou validação do campos
+
+- Marcelo: Desenvolveu a função e layout do checkout
+
+### Períodos:
+
+- Desenvolvimento: 3 dias
+
+- Testes: 2 dia
+
+- Data: 21/11/2025 - 28/11/2025
+
+## Sprint 15: Tela de Checkout - Parte 2 (Preview + botão) 
+### O que foi feito:
+
+- Ações de redirecionamento e verificação de login/carrinho
+
+- Blocos de subtotal/total e botão "Place Order", e função para pegar os dados redux
 
 ### Desenvolvedores:
 
@@ -270,13 +327,13 @@
 
 ### Períodos:
 
-- Desenvolvimento: 5 dias
+- Desenvolvimento: 2 dias
 
-- Testes: 2 dia
+- Testes: 1 dia
 
-- Data: 12/11/2025 - 21/11/2025
+- Data: 01/12/2025 - 03/12/2025
 
-## Sprint 13: Página de Pós-Pagamento
+## Sprint 16: Página de Pós-Pagamento
 ### O que foi feito:
 
 - Página "After Payment" com mensagem de sucesso
@@ -287,7 +344,7 @@
 
 - Ana: Desenvolveu a página de pós-pagamento.
 
-- Marcelo: Redirecionamento + estidos do botão “Go to My Account”.
+- Marcelo: Redirecionamento + estilos do botão “Go to My Account”.
 
 ### Períodos:
 
@@ -295,9 +352,9 @@
 
 - Testes: 1 dia
 
-- Data: 24/11/2025 - 28/11/2025
+- Data: 04/12/2025 - 10/12/2025
 
-## Sprint 14: Profile - Parte 1 (Detalhes da conta)
+## Sprint 17: Profile - Parte 1 (Detalhes da conta)
 ### O que foi feito:
 
 - Layout da página de profile
@@ -308,17 +365,17 @@
 
 - Ana: Página com avatar, nome e e-mail.
 
-- Marcelo: Logout e validação de sessão com clerk.
+- Marcelo: Logout e validação de sessão com Clerk.
 
 ### Períodos:
 
-- Desenvolvimento: 4 dias
+- Desenvolvimento: 2 dias
 
 - Testes: 1 dia
 
-- Data: 24/11/2025 - 28/11/2025
+- Data: 15/12/2025 - 17/12/2025
 
-## Sprint 15: Profile - Parte 2 (Pedidos)
+## Sprint 18 Profile - Parte 2 (Pedidos)
 ### O que foi feito:
 
 - Função para listegem dos pedidos vindos do back-end
@@ -331,14 +388,14 @@
 
 ### Períodos:
 
-- Desenvolvimento: 4 dias
+- Desenvolvimento: 3 dias
 
 - Testes: 1 dia
 
-- Data: 24/11/2025 - 28/11/2025
+- Data: 18/12/2025 - 23/12/2025
 
 
-## Sprint 16: Página About
+## Sprint 19: Página About
 ### O que foi feito:
 
 - Página "About" com foto, descrição e contatos
@@ -357,9 +414,9 @@
 
 - Testes: 1 dia
 
-- Data: 01/12/2025 - 03/11/2025
+- Data: 05/01/2026 - 07/01/2026
 
-## Sprint 17: Página 404
+## Sprint 20: Página 404
 ### O que foi feito:
 
 - Página customizada para rotas inexistentes
@@ -374,8 +431,8 @@
 
 ### Períodos:
 
-- Desenvolvimento: 2 dias
+- Desenvolvimento: 3 dias
 
-- Data: 01/12/2025 - 02/11/2025
+- Data: 08/01/2026 - 12/01/2026
 
 
