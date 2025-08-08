@@ -1,4 +1,37 @@
-# Sprints para E-commerce
+# Dados do grupo e do projeto
+
+### Integrantes: Marcelo Lavratti Calsing
+    
+
+### Tecnologias utilizadas
+- Front-End:
+  - JavaScript/TypeScript
+  - React/Vite
+  - Clerk (autenticação e autorização do usuário)
+  - Tailwind CSS
+
+- Back-End:
+  - Node.js/express
+  - Mongoose (integração back-end e banco de dados)
+  - Joi (validação de esquemas)
+
+- Bando de Dados:
+  - MongoDB
+
+### Descrição do projeto
+- O projeto consiste no desenvolvimento de um e-commerce completo utilizando Next.js, Tailwind CSS, Redux Toolkit e Clerk para autenticação. A aplicação contempla todas as etapas de compra, desde a navegação de produtos com filtros, busca e paginação, até o checkout integrado com cálculo automático de frete via API de CEP, finalização do pedido e exibição no perfil do usuário.
+
+- O site possui carrinho persistente com Redux, feedbacks visuais de carregamento e integração com API de produtos para exibir dados reais. Também conta com páginas institucionais como About, Profile, 404 personalizada, e recursos como newsletter e listagem de pedidos. As funcionalidades foram organizadas e implementadas em 20 sprints, garantindo evolução contínua e testes em cada etapa.
+
+### Quantidade de Sprints: 20
+
+### Vantagem e dificultades de implementar a Metodologia Ágil nos projetos
+
+- A metodologia ágil traz vantagens como maior flexibilidade para mudanças durante o projeto, entregas contínuas que permitem feedback rápido do cliente e maior colaboração entre equipe e stakeholders, resultando em produtos mais alinhados às necessidades reais. Além disso, melhora a transparência e o controle do progresso.
+Por outro lado, pode apresentar dificuldades como a necessidade de alta disciplina da equipe para manter ritmo e organização, risco de escopo indefinido caso não haja bom gerenciamento entre o time desenvolvimento.
+
+
+# Sprints do Projeto
 
 ## Sprint 1: Configuração Inicial e Ambiente
 ### O que foi feito:
